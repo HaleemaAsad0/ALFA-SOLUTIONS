@@ -1,5 +1,4 @@
 # ALFA-SOLUTIONS
-Data Science Internship Projects
 Welcome to my Data Science Internship Projects repository! This repository contains the projects I completed during my internship, showcasing various data science techniques and applications. Below is a brief description of each project.
 
 Projects
